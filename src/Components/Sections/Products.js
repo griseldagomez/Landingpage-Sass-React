@@ -20,13 +20,13 @@ function Products() {
                 </div>
                 <CardPhoto photo={Brush} />
                 <h3>Cepillo de bambú</h3>
-                <p>paquete de 2 unidades hecho 100% de materiales ecológicos</p>
+                <p>Paquete de 2 unidades hecho 100% de materiales ecológicos</p>
             </div>
             <div class="product-card">
                 <div class="icon">
                    <IconHeart/>
                 </div>
-
+                <CardPhoto photo={Cream} />
                 <h3>Crema para manos</h3>
                 <p> Crema Hidratante cop eucalipto ayuda al cuidado de la piel</p>
             </div>
@@ -34,8 +34,7 @@ function Products() {
                 <div class="icon">
                 <IconHeart/>
                 </div>
-
-               
+                <CardPhoto photo={Serum} />
                 <h3>Serum hidratante</h3>
                 <p>Serúm hecho a base de extractos naturales y ácido hialuronico</p>
             </div>
@@ -43,8 +42,7 @@ function Products() {
                 <div class="icon">
                 <IconHeart/>
                 </div>
-
-             
+                <CardPhoto photo={Kit} />
                 <h3>Kit de viaje</h3>
                 <p>Incluye peine y cepillo de bambú, jabón organico de eucalipto y un shampoo tamaño de viae.</p>
             </div>
@@ -52,16 +50,15 @@ function Products() {
                 <div class="icon">
                 <IconHeart/>
                 </div>
-
-                <h3>Paquete de 2 unidades jabón de carbon  activado con coco</h3>
-                <p>paquete de dos unidades.</p>
+                <CardPhoto photo={Soap} />
+                <h3>Jabón de carbon activado con coco</h3>
+                <p>Paquete de dos unidades.</p>
             </div>
             <div class="product-card">
                 <div class="icon">
                 <IconHeart/>
                 </div>
-
-              
+                <CardPhoto photo={Guasha} />              
                 <h3>Kit de Skincare</h3>
                 <p>Incluye 2 rodillos y una guasha.</p>
             </div>
