@@ -30,11 +30,6 @@ body {
 }
 //definir los restos de los elementos html
 
-.logo{
-  width: 150px;
-  height: 150px;
-  margin: 0;
-}
 
 nav.head {
   display: flex;
@@ -52,12 +47,14 @@ nav.head {
     display: flex;
     gap: 15px;
     margin-right: 20px;
-    margin-top: 40px;
     button {
       background: none;
       border-style: none;
     }
   }
+h1{
+  font-weight: lighter;
+}
 }
 
 @media (max-width: 760px) {

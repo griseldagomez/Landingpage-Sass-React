@@ -10,39 +10,49 @@ import Decoration from './Components/Sections/Decoration';
 import AboutUs from './Components/infoSection/AboutUs';
 import GalleryImages from './Components/Gallery/GalleryImages';
 import Map from './Components/Location/Map';
-import SocialMediaIcons from './Components/SocialMedia/SocialMediaIcons';
+
 
 
 function App() {
     return (
         <>
-            <nav class="head"> 
-            <Header/>
-            <div class="icons">
-                <button class="profile">
+            <nav class="head">
+                <Header />
+
+                <div class="icons">
+                    <button class="profile">
                         <IconUser />
-                 </button>
-                 <button class="wishlists">
+                    </button>
+
+                    <button class="wishlists">
                         <IconHeart />
-                </button>
+                    </button>
 
                     <button class="cart">
                         <IconShopping />
-                    </button></div>
+                    </button>
+                </div>
             </nav>
           
             <main class="main-section">
-                <Hero/>
-                <Products/>
-                <CardPhoto/>
-                <Decoration/>
+                <Hero />
+
+                <Products />
+
+                <CardPhoto />
+
+                <Decoration />
+
                 <section class="info-section">
-                <AboutUs/>
-                <GalleryImages/>
-                <Map/>
+                    <AboutUs />
+
+                    <GalleryImages />
+
+                    <Map />
                 </section>
             </main>
-                <Footer/>
+
+            <Footer/>
         </>
     );
 }
