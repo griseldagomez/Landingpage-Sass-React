@@ -171,21 +171,24 @@ article {
   }
 }
 
-.Know-more{
+.know-more{
   padding: 30px;
   display: flex;
   justify-content: center;
   flex-direction: column;
   width: 600px;
+  margin: 0 auto;
   h1{
     font-family: $font-stack;
     font-size: $paragraph-size;
     color:$primary-text-color;
+    
   }
   h2{
     font-family: $font-stack;
     font-size: $paragraph-size;
     color:$tertiary-color;
+    font-weight: normal;
   }
   
  .text-two{
@@ -195,6 +198,10 @@ article {
  }
  ul{
   list-style: none;
+ }
+ h3{
+  color:$primary-text-color;
+  font-weight: normal;
  }
 }
 
