@@ -5,7 +5,7 @@ function KnowMore() {
     <div className='know-more'>
     <h1>Eco-Store</h1>
     <h2>Tu tienda online de productos sostenibles 🌿</h2>
-    <p className='text'>En EcoStore, creemos que cada compra puede marcar la diferencia.Por eso, hemos creado un espacio donde encontrarás productos ecológicos, sostenibles y responsables con el planeta. Desde artículos de higiene personal sin plásticos hasta alimentos orgánicos y productos de limpieza biodegradables, en nuestra tienda online podrás elegir opciones que cuidan de ti y del medio ambiente.</p>
+    <p className='text'>En EcoStore, creemos que cada compra puede marcar la diferencia. Por eso, hemos creado un espacio donde encontrarás productos ecológicos, sostenibles y responsables con el planeta. Desde artículos de higiene personal sin plásticos y muebles para el hogar hechos con materiales ecológicos, en nuestra tienda online podrás elegir opciones que cuidan de ti y del medio ambiente.</p>
     
     <p className='text-two'>✨ ¿Por qué elegir EcoStore?</p>
     <ul>

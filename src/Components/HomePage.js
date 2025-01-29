@@ -2,9 +2,7 @@ import React from 'react'
 import Header from './Header';
 import Hero from './Hero';
 import Footer from './Footer';
-import IconHeart from './Icons/IconHeart';
-import IconShopping from './Icons/IconShopping';
-import IconUser from './Icons/IconUser';
+
 import Products from './Sections/Products';
 import CardPhoto  from './Sections/CardPhoto';
 import Decoration from './Sections/Decoration';
@@ -15,23 +13,8 @@ import Map from './Location/Map';
 function HomePage() {
   return (
     <>
-    <nav class="head">
+    
     <Header />
-
-    <div class="icons">
-        <button class="profile">
-            <IconUser />
-        </button>
-
-        <button class="wishlists">
-            <IconHeart />
-        </button>
-
-        <button class="cart">
-            <IconShopping />
-        </button>
-    </div>
-</nav>
 
 <main class="main-section">
     <Hero />
