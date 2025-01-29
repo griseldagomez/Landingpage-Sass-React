@@ -45,15 +45,17 @@ nav.head {
   }
   .icons {
     display: flex;
-    gap: 15px;
+    gap: 10px;
     margin-right: 20px;
+    color:$primary-text-color;
+    font-size: 28px;
     button {
       background: none;
       border-style: none;
     }
   }
 h1{
-  font-weight: lighter;
+  // font-weight: lighter;
 }
 }
 
@@ -167,6 +169,33 @@ article {
       border-radius: 19px;
     }
   }
+}
+
+.Know-more{
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 600px;
+  h1{
+    font-family: $font-stack;
+    font-size: $paragraph-size;
+    color:$primary-text-color;
+  }
+  h2{
+    font-family: $font-stack;
+    font-size: $paragraph-size;
+    color:$tertiary-color;
+  }
+  
+ .text-two{
+  font-family: $font-stack;
+    font-size: $paragraph-size;
+    color:$tertiary-color;
+ }
+ ul{
+  list-style: none;
+ }
 }
 
 section {
