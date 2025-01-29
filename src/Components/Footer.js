@@ -1,5 +1,5 @@
 import React from 'react';
-import SocialMediaIcons from './SocialMedia/SocialMediaIcons';
+import SocialMedia from './SocialMedia/SocialMedia';
 
 function Footer() {
   return (
@@ -13,7 +13,7 @@ function Footer() {
               <li>Eco-store inc</li>
           </ul>
       </nav>
-      <SocialMediaIcons/>
+      <SocialMedia/>
           </footer>
       )
 }

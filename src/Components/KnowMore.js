@@ -1,6 +1,6 @@
 import React from 'react'
 
-function SaberMasPage() {
+function KnowMore() {
   return (
     <div className='know-more'>
     <h1>Eco-Store</h1>
@@ -21,4 +21,4 @@ function SaberMasPage() {
   )
 }
 
-export default SaberMasPage
+export default KnowMore;
