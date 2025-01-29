@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.28c099ab.css",
+    "main.js": "./static/js/main.361cb02f.js",
+    "static/media/map.png": "./static/media/map.8e36a665d9ff1bd8ebcc.png",
+    "static/media/main-2.jpg": "./static/media/main-2.9a6b520110ba50028acd.jpg",
+    "static/media/gallery-1.jpg": "./static/media/gallery-1.29d8275a9820b3a1c1bf.jpg",
+    "static/media/gallery-2.jpg": "./static/media/gallery-2.69524bf3bf9831c111fe.jpg",
+    "static/media/gallery-3.jpg": "./static/media/gallery-3.122aa0225b3e15cb86e5.jpg",
+    "static/media/stand-table.jpg": "./static/media/stand-table.0e76e07801627fc7b1f3.jpg",
+    "static/media/serum.jpg": "./static/media/serum.0f9bc04675e8881134e6.jpg",
+    "static/media/mueble.jpg": "./static/media/mueble.deb8badfa952790bddfd.jpg",
+    "static/media/small-table.jpeg": "./static/media/small-table.924bfb9beca16c80ce0b.jpeg",
+    "static/media/hand-cream.jpeg": "./static/media/hand-cream.459b08d0d517780a1fd3.jpeg",
+    "static/media/organic-kit.jpg": "./static/media/organic-kit.cdb275cda36d7c2ecf2e.jpg",
+    "static/media/desk-lamp.jpg": "./static/media/desk-lamp.8783c3f5dbc4e294b223.jpg",
+    "static/media/toothbrush.jpg": "./static/media/toothbrush.2223dd46e0ba160171b8.jpg",
+    "static/media/organic-soap.jpg": "./static/media/organic-soap.fe47214a55e4652f475c.jpg",
+    "static/media/mirror.jpg": "./static/media/mirror.dd2dbf90f3347e8ff477.jpg",
+    "static/media/guasha-kit.jpg": "./static/media/guasha-kit.2c3be08a2b725715ad24.jpg",
+    "static/media/wood-chair.jpg": "./static/media/wood-chair.886334fbea803f08d04c.jpg",
+    "index.html": "./index.html",
+    "main.28c099ab.css.map": "./static/css/main.28c099ab.css.map",
+    "main.361cb02f.js.map": "./static/js/main.361cb02f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c099ab.css",
+    "static/js/main.361cb02f.js"
+  ]
+}
